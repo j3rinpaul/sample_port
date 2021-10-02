@@ -217,12 +217,3 @@ header li{
     animation-name: lefts;
     animation-duration: 3s;
 }
-
-@keyframes lefts{
-    0%{
-        left:-200px;
-    }
-    100%{
-        left: 0px;
-    }
-}
